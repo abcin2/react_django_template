@@ -18,6 +18,9 @@ https://djecrety.ir/
 
 Make sure you also add:
 - virtual environment
+$ mkdir djangoenv
+$ python3 -m venv djangoenv
+$ source djangoenv/bin/activate
 - new gitignore
 
 install all dependencies within virtual environment
