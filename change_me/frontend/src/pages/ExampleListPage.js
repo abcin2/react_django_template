@@ -66,7 +66,7 @@ function ExampleListPage({ match, history }) {
 
   return (
     <div>
-        Examples:
+        Examples: - Test
         <br />
         {/* can use map function to map multiple pieces of data with html tags */}
         { examples }
