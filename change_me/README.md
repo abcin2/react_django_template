@@ -15,3 +15,9 @@ python3 manage.py runserver
 
 How to generate new django secret key:
 https://djecrety.ir/
+
+Make sure you also add:
+- virtual environment
+- new gitignore
+
+install all dependencies within virtual environment
