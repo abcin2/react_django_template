@@ -24,3 +24,4 @@ $ source djangoenv/bin/activate
 - new gitignore
 
 install all dependencies within virtual environment
+$ pip install -r requirements.txt
