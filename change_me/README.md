@@ -1,9 +1,8 @@
-Need to change names in Settings.py --
+When changing folder names --
 
-lines:
-23
-55
-74
+run a search for 'change_me' and change everything to the name of the folders
+
+*** there is also variables named 'change_message' DO NOT CHANGE THOSE!
 
 When updating changes --
 
@@ -22,6 +21,7 @@ $ mkdir djangoenv
 $ python3 -m venv djangoenv
 $ source djangoenv/bin/activate
 - new gitignore
+https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
 
 install all dependencies within virtual environment
 $ pip install -r requirements.txt
