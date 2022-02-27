@@ -32,6 +32,7 @@ ADDING S3 bucket for AWS storage:
 (in order to access files through the app, you will need to create a model and upload the file through django)
 
 $ pip install boto3
+$ pip install django-storages
 
     add to settings.py ---
 
