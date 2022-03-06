@@ -42,3 +42,5 @@ $ pip install django-storages
     AWS_SECRET_ACCESS_KEY = (use env variables)
     AWS_STORAGE_BUCKET_NAME = (use env variables)
     AWS_QUERYSTRING_AUTH = False
+
+check youtube likes for video on auth views
